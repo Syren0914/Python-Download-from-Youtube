@@ -46,10 +46,9 @@ python app.py
 
 Usage
 
-
-1.Open the application.
-2.Insert a valid YouTube link into the input field.
-3.Click the "Download" button.
-4.The title of the video will be displayed, and the download progress will be shown.
-5.Once the download is complete, a success message will be displayed.
+  -Open the application.
+  -Insert a valid YouTube link into the input field.
+  -Click the "Download" button.
+  -The title of the video will be displayed, and the download progress will be shown.
+  -Once the download is complete, a success message will be displayed.
 
